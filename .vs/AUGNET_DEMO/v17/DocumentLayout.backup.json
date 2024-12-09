@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prathik\\source\\repos\\AUGNET_DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0B0F44-FE8C-41F0-8DA6-C8BCE100BE8F}|AUGNET_DEMO\\AUGNET_DEMO.csproj|c:\\users\\prathik\\source\\repos\\augnet_demo\\augnet_demo\\newfile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0B0F44-FE8C-41F0-8DA6-C8BCE100BE8F}|AUGNET_DEMO\\AUGNET_DEMO.csproj|solutionrelative:augnet_demo\\newfile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0B0F44-FE8C-41F0-8DA6-C8BCE100BE8F}|AUGNET_DEMO\\AUGNET_DEMO.csproj|c:\\users\\prathik\\source\\repos\\augnet_demo\\augnet_demo\\newfile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0B0F44-FE8C-41F0-8DA6-C8BCE100BE8F}|AUGNET_DEMO\\AUGNET_DEMO.csproj|solutionrelative:augnet_demo\\newfile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewFile.aspx",
+              "DocumentMoniker": "C:\\Users\\prathik\\source\\repos\\AUGNET_DEMO\\AUGNET_DEMO\\NewFile.aspx",
+              "RelativeDocumentMoniker": "AUGNET_DEMO\\NewFile.aspx",
+              "ToolTip": "C:\\Users\\prathik\\source\\repos\\AUGNET_DEMO\\AUGNET_DEMO\\NewFile.aspx",
+              "RelativeToolTip": "AUGNET_DEMO\\NewFile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-26T22:02:22.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewFile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prathik\\source\\repos\\AUGNET_DEMO\\AUGNET_DEMO\\NewFile.aspx.cs",
+              "RelativeDocumentMoniker": "AUGNET_DEMO\\NewFile.aspx.cs",
+              "ToolTip": "C:\\Users\\prathik\\source\\repos\\AUGNET_DEMO\\AUGNET_DEMO\\NewFile.aspx.cs",
+              "RelativeToolTip": "AUGNET_DEMO\\NewFile.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:35:53.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
