@@ -1,0 +1,12 @@
+C:\Users\prathik\source\repos\Models\bin\Debug\net8.0\EF_Models.deps.json
+C:\Users\prathik\source\repos\Models\bin\Debug\net8.0\EF_Models.dll
+C:\Users\prathik\source\repos\Models\bin\Debug\net8.0\EF_Models.pdb
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\EF_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\EF_Models.AssemblyInfoInputs.cache
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\EF_Models.AssemblyInfo.cs
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\EF_Models.csproj.CoreCompileInputs.cache
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\EF_Models.dll
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\refint\EF_Models.dll
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\EF_Models.pdb
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\ref\EF_Models.dll
+C:\Users\prathik\source\repos\Models\obj\Debug\net8.0\EF_Models.csproj.AssemblyReference.cache
