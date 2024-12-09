@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prathik\\source\\repos\\CoreMiddlewareDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADADA64-CECE-479F-A772-93B588DD7FC6}|CoreMiddlewareDemo.csproj|c:\\users\\prathik\\source\\repos\\coremiddlewaredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADADA64-CECE-479F-A772-93B588DD7FC6}|CoreMiddlewareDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADADA64-CECE-479F-A772-93B588DD7FC6}|CoreMiddlewareDemo.csproj|c:\\users\\prathik\\source\\repos\\coremiddlewaredemo\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADADA64-CECE-479F-A772-93B588DD7FC6}|CoreMiddlewareDemo.csproj|solutionrelative:custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADADA64-CECE-479F-A772-93B588DD7FC6}|CoreMiddlewareDemo.csproj|c:\\users\\prathik\\source\\repos\\coremiddlewaredemo\\custommiddleware\\secondmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADADA64-CECE-479F-A772-93B588DD7FC6}|CoreMiddlewareDemo.csproj|solutionrelative:custommiddleware\\secondmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecondMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\prathik\\source\\repos\\CoreMiddlewareDemo\\CustomMiddleware\\SecondMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomMiddleware\\SecondMiddleware.cs",
+              "ToolTip": "C:\\Users\\prathik\\source\\repos\\CoreMiddlewareDemo\\CustomMiddleware\\SecondMiddleware.cs",
+              "RelativeToolTip": "CustomMiddleware\\SecondMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:18:38.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prathik\\source\\repos\\CoreMiddlewareDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prathik\\source\\repos\\CoreMiddlewareDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:01:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\prathik\\source\\repos\\CoreMiddlewareDemo\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomMiddleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\prathik\\source\\repos\\CoreMiddlewareDemo\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "CustomMiddleware\\MyCustomMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:00:33.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
